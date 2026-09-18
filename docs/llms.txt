@@ -1,0 +1,10 @@
+# yoUTUBe-unBaN
+
+YouTube тормозит из‑за DPI. yoUTUBe-unBaN обходит это на Windows 10/11 одним .bat файлом.
+
+YouTube тормозит из‑за DPI. yoUTUBe-unBaN обходит это на Windows 10/11 одним .bat файлом. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/boulderbakerunveil/yoUTUBe-unBaN/releases/latest
+Код: https://github.com/boulderbakerunveil/yoUTUBe-unBaN
+Основа: https://github.com/bol-van/zapret
+Страница: https://boulderbakerunveil.github.io/yoUTUBe-unBaN/
